@@ -1,0 +1,15 @@
+ofxOpenCv
+ofxCv
+ofxFFApp
+ofxFFSilhouette
+ofxFFSound
+ofxFFTouch
+ofxGui
+ofxOsc
+ofxSyphon
+ofxTskokmtGraphic
+ofxTskokmtMath
+ofxTskokmtMotion
+ofxTskokmtTool
+ofxTskokmtTranslator
+ofxXmlSettings
